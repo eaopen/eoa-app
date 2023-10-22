@@ -12,6 +12,7 @@
     <description>openEAP项目模板
     可复制本模板进行项目定制开发
     </description>
+    <url>https://github.com/eaopen/openea-eap</url>
 
     <properties>
         <revision>2.0</revision>
